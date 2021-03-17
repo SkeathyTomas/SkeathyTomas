@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, acg, and coding.
 - 🌱 I’m currently learning everything?
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Feel free to visit my personal page! [click here](https://skeathytomas.github.io/)
 
 <!---
 SkeathyTomas/SkeathyTomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
