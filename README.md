@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkeathyTomas, from ZJU.
 - 👀 I’m interested in design, acg, and coding.
-- 🌱 I’m currently learning everything?
+- 🌱 I’m currently learning everything as a PM.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to visit my personal page! [click here](https://skeathytomas.github.io/)
 
